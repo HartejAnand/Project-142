@@ -1,0 +1,3 @@
+allA=[]
+liked=[]
+disliked=[]
